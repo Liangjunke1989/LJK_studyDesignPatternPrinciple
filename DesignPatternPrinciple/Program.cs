@@ -24,7 +24,7 @@ namespace DesignPatternPrinciple
         {
             try
             {
-                Console.WriteLine("欢迎来到.net高级班vip课程，今天是Eleven老师为大家带来的设计模式六大原则");
+                Console.WriteLine("欢迎来到 .net高级班vip课程，今天是Eleven老师为大家带来的设计模式六大原则");
                 //{
                 //    Console.WriteLine("*******************单一职责原则********************");
                 //    SRP.SRPShow.Show();
