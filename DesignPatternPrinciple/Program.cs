@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace DesignPatternPrinciple
 {
-    /// <summary>
+    /// <summary> 
     /// 1.  单一职责原则（Single Responsibility Principle）
     /// 2.  里氏替换原则（Liskov Substitution Principle）
     /// 3.  依赖倒置原则（Dependence Inversion Principle）
