@@ -1,0 +1,2 @@
+# LJK_studyDesignPatternPrinciple
+DotNet
