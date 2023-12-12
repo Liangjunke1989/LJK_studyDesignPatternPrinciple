@@ -15,7 +15,7 @@ namespace DesignPatternPrinciple
     /// 6.  开闭原则     (Open Closed Principle)
     /// 
     /// 设计模式：面向对象语言开发过程中，遇到各种场景和问题，解决方案和思路，沉淀下来就是设计模式
-    ///           套路
+    ///         套路
     /// 设计模式六大原则： 面向对象语言开发过程中，推荐的一些指导性原则(并不是强制要求的)        
     /// </summary>
     class Program

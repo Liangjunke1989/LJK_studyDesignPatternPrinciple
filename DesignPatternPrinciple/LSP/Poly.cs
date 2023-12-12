@@ -8,7 +8,7 @@ namespace DesignPatternPrinciple.LSP
 {
     /// <summary>
     /// 普通方法  虚方法  抽象方法
-    /// 
+    ///  
     /// </summary>
     public class Poly
     {

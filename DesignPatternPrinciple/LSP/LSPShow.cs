@@ -34,6 +34,7 @@ namespace DesignPatternPrinciple.LSP
             {
                 Chinese people = new Hubei();
                 people.Traditional();
+                people.SayHi();// 普通方法，调用的左边的
                 DoChinese(people);
                 //DoHubei(people);
             }
